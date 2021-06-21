@@ -1,8 +1,9 @@
-# leaflet-map-simple
-A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
+# Simple Leaflet Map
+A simple Leaflet map to explore map styles
 
-## Link to live map (replace with link to your site)
+## Link to live map
 https://burrellcreekcommunity.github.io/starter/
 
-## Create your own
-See step-by-step tutorial at https://HandsOnDataViz.org, an open-access book by Jack Dougherty and Ilya Ilyankou
+## Next Steps
+1. Create web app with Access Control
+2. Build spatial database
